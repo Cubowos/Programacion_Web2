@@ -1,0 +1,9 @@
+hay que ini inicializar con npm init en una carpeta de modulosss
+Puertos que no puedes ocupar:1-1024
+    21-fto
+    22-ssh
+    80-http
+Buscar como abrir puerto!!!
+Request manda todo
+
+node servidor.js

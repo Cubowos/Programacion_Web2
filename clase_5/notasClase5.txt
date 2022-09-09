@@ -1,0 +1,40 @@
+hay que evaluar los dominios
+habitaciones es un conjunto de json, asi qie iria [{}]
+no usar var, dejar let. Investigar
+
+let ab =[habitacion1,habitacion2,habitacion3];
+hotel.setHabitaciones(ab);
+RUTAS RELATIVAS, no estaticas
+
+js puede llamar metodos sin ser llamados, auto invocada
+la autollamada hace que ejecute automaticamente
+
+EL PROYECTO FINAL:
+    un disp afuera para desplegar en pantalla
+    descargar proteus, emula arduino uno
+
+framework, marco de trabajo, conjunto de bibliotecas hechas por terceros para agregar funcionalidad al proyecto
+
+Lambdas da informacion
+    emula como si fueran datos
+    puede dar un return
+    los framework usa Lambdas
+    funcion que recibe funciones?
+    sustitucion de codigo? unicamente en js
+
+prototipe y encapsulamiento, esta en una biblioteca/framework
+
+pag58,61
+
+DOM= Document Object Model
+
+Se pedira inf al usuario y se recupera inf de ahi
+Se ejecuta cada elemento de acuerdo a DOM
+$Document arbol, busca 
+
+llamadas callback, JQuery
+ligar eventos a un boton 
+
+!!!usar stampit, crear clases y objetos con eso
+!!!crear la clase del formulario uno, 
+!!!recrear pag55, obtener los valores de ese formulario

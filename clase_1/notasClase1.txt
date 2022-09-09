@@ -1,0 +1,21 @@
+espacio de trabajo
+    clase1
+        css
+        js
+        html
+
+etiquetas minimas en html head y body
+
+>>Investigar en los navegadores las abreviaturas de los lenguajes firefox, chrome, edge y opera
+
+>Un meta dato es un dato que describe otro dato<
+CONFIGURAR BIEN LA PAGINA PARA CADA PROYECTO
+
+Uniform Resource Locator = URL (Localizador Uniforme de Recursos)
+
+si un "?" esta en un url es para manda argumentos
+recibe informacion para saber que hacer la pagina
+".." una carpeta arriba
+"." en la misma carpeta
+
+div= bloque

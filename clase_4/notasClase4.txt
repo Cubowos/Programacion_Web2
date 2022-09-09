@@ -1,0 +1,42 @@
+pag 22
+json = arreglos; 
+var = let;
+llave valor, esta puede ser un objeto y sirve para el indice
+hashmap!!
+el indice puede ser una cadena de texto
+json notacion para transmitir informacion por internet, antes se usaba XML la base era HTML
+
+
+
+XML:
+    objeto:
+<animal>
+    <raza> dog </raza>
+    <nombre> rufus </nombre>
+    <raza> ... </raza>
+</animal>
+
+Marcombo - editorial
+Thomsom
+
+
+SCRUM, 
+
+
+llaves json, corchetes arreglos
+json manda informacion
+Cada elemento de un json lleva una coma, con excepcion del ultimo
+
+Diagramas UML para la creacion de json
+
+Cardinalidad: numeros de elementos
+
+INSTAL STAR UML
+
+para crear un json hay que tener un objeto y tener una clase.
+clases en javascript
+generar getters and setters en vscode!!!
+
+DOM, que es?
+
+Tarea pag25-29 !!!!

@@ -1,0 +1,19 @@
+npm init
+instalar express
+npm install express
+npm install --save-dev nodemon      
+save-dev para desarrollo
+npm install pug
+/index.js
+
+En todo proyecto hay que instalar todo lo anterior
+versiones viejita, despues usaremos nuevas versiones
+
+para correr npm run dev
+no demon esta en un binario
+
+
+SIEMPRE HAY QUE INSTALAR ESTO EN TODOS LOS PROYECTOS
+PARA HACER UNA PETICION ES GET
+
+LIBRO LEER PAGINA 93-103, DEJARLO EN VISION DE EVENTOS

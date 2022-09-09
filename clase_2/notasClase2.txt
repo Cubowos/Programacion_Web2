@@ -1,0 +1,16 @@
+1. Problema a tratar
+2. Propuesta de disenio
+    1. Creas disenio
+    2. 
+
+Servidor software que te ofrece un servicio
+PHPMYADMIN
+
+paginas web puerto 8080 
+DNS: Servidor de Nombre de Dominio
+
+>>>Servidores web gratis, investigar. Etiqueta para darle tiempo a un salto automatico
+csvg
+Index-pagina default
+
+H1 en una pagina 
