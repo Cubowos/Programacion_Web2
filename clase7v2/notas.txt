@@ -17,3 +17,26 @@ SIEMPRE HAY QUE INSTALAR ESTO EN TODOS LOS PROYECTOS
 PARA HACER UNA PETICION ES GET
 
 LIBRO LEER PAGINA 93-103, DEJARLO EN VISION DE EVENTOS
+-------------------------------------------------------
+ORM mapeo relacion objeto
+
+el model modela la tabla
+views, son las vistas html boostrap?
+descargar el boostrap
+agrega imagenes
+    todo eso en plubic, lo que es publico para que todo lo vea
+
+rutas tiene un index
+    solo se meten las rutas que se meten 
+
+
+npm run dev
+dev archivo?
+
+
+sudo mysql
+password para root, no su, poner password
+configurar mariadb xd
+abrir para localhost
+cambiar pss mariadbd root
+indicarle que el servidor puede acceder a localhost
